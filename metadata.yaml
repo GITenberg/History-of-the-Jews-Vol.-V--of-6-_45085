@@ -1,0 +1,32 @@
+_repo: History-of-the-Jews-Vol.-V--of-6-_45085
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45085-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Graetz, Heinrich
+    aliases:
+    - Graetz, Hirsch
+    - Grätz, Hirsch
+    - Graetz, Heinrich Hirsch
+    - Graetz, H. (Heinrich)
+    - Gratz, Hirsch
+    birthdate: 1817
+    deathdate: 1891
+    gutenberg_agent_id: '42001'
+    url: http://www.gutenberg.org/2009/agents/42001
+description: ''
+gutenberg_issued: '2014-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- History'
+- !lcc 'DS'
+title: History of the Jews, Vol. 5 (of 6)
+url: http://www.gutenberg.org/ebooks/45085
